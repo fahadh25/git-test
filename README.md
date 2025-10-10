@@ -1,2 +1,2 @@
 # git-test
-Test VS code with Git
+Test VS code with Git reporsitory.
