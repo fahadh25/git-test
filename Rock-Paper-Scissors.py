@@ -1,3 +1,6 @@
+#This is a standard Rock, Paper, Scissors game. It'll be played against computer.
+
+#Import the random module so that computer can randomly get a choice.
 import random
 
 def get_choices():
